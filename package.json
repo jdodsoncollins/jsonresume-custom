@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "init": "resumed init",
+    "start": "resumed --theme jsonresume-theme-even",
+    "pdf": "node pdf.js"
+  },
+  "dependencies": {
+    "jsonresume-theme-even": "^0.17.0",
+    "puppeteer": "^22.11.2",
+    "resumed": "^3.0.0"
+  }
+}

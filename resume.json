@@ -1,0 +1,134 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Jeremy Collins",
+    "label": "Software Developer",
+    "image": "",
+    "email": "jeremy@jeremycollins.net",
+    "phone": "949-351-1421",
+    "url": "jeremycollins.net",
+    "summary": "Product engineer & general enthusiast for web technology.",
+    "location": {
+      "countryCode": "US",
+      "address": "United States"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "jeremy-d-collins",
+        "url": "https://www.linkedin.com/in/jeremy-d-collins/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Webflow",
+      "position": "Senior Software Engineer",
+      "startDate": "2022-08-31",
+      "endDate": "",
+      "highlights": [],
+      "summary": "- Member of the Grow & Extend team, responsible for user onboarding, activation, and other early stages of the user journey working with Full-stack TypeScript, React, Express, MongoDB\n- Implemented numerous growth-focused experiments of varying size and scope where the developer is the DRI, each with an A/B testing rollout plan, analytics dashboards, and statistical analysis to determine the winning variant\n- Launched Webflow's first AI tooling in 2023, after being a part of a successful internal hackathon to develop the feature\n- Played a lead role in establishing an analytics pipeline incorporating cube.js and ClickHouse OLAP DBMS to visualize and alert users of their website traffic usage milestones",
+      "url": "webflow.com",
+      "location": "Los Angeles Metropolitan Area"
+    },
+    {
+      "name": "MasterClass",
+      "position": "Senior Software Engineer",
+      "startDate": "2022-04-30",
+      "endDate": "2022-08-31",
+      "highlights": [],
+      "summary": "- Front-end developer on Growth team, focused on UX of payments and promotions\n- Transitioned select pre-paywall pages from Rails-served client-side React pages to to NextJS (powered by a Rails API) \n- Responsible for deploying and accurately maintaining A/B test experiments using Optimizely or in-house user testing systems",
+      "url": "masterclass.com",
+      "location": "Los Angeles Metropolitan Area"
+    },
+    {
+      "name": "HITRECORD",
+      "position": "Software Developer",
+      "startDate": "2019-07-31",
+      "endDate": "2022-04-30",
+      "highlights": [],
+      "summary": "- Lead role in re-launching the web experience as a new Angular webapp on top of the existing Rails codebase, utilizing Redux (NgRx), RxJS, XState\n- Developed e-learning lesson system models, API, and interfaces, with an admin-facing custom CMS\n- Merger with MasterClass in April 2022",
+      "url": "hitrecord.org",
+      "location": "Glendale, California"
+    },
+    {
+      "name": "Plink",
+      "position": "Software Engineer",
+      "startDate": "2018-09-30",
+      "endDate": "2019-07-31",
+      "highlights": [],
+      "summary": "- Full-stack TypeScript / JavaScript role, encompassing numerous React SPA and Node projects (for API creation or React SSR)\n- Implemented an asset library feature where users can browse and download files, involving multiple node-based applications backing the React front-end\n- Transitioned the existing JavaScript codebases to TypeScript and took charge of numerous related major dependency updates",
+      "url": "plink.ai",
+      "location": "Santa Monica, California"
+    },
+    {
+      "name": "Event Farm",
+      "position": "Software Engineer",
+      "startDate": "2015-09-30",
+      "endDate": "2018-09-30",
+      "highlights": [],
+      "summary": "- Modernized and fully rewrote the front-end codebase to Angular 2+ single-page app, while still supporting the older AngularJS+jQuery web-app\n- Lead UX overhaul of Angular-based ticket management system\n- Once the primary app was mature, created a WYSIWYG web page builder as one of platform features using React & Vue. Included support for creating responsive-design webpages plus creating or saving templates",
+      "url": "eventfarm.com",
+      "location": "Santa Monica, California"
+    },
+    {
+      "name": "Act-On Software, Inc.",
+      "position": "Junior Software Engineer",
+      "startDate": "2015-01-31",
+      "endDate": "2015-09-30",
+      "highlights": [],
+      "summary": "- Transitioned to full-time engineer on the Content & Delivery team, responsible for the WYSIWYG email, form, and webpage builders used by customers. \n- Rapidly acclimated to a very large Java and AngularJS-based enterprise web application codebase, after previously working only on smaller website projects \n- Implemented features to the email and form designer products, such as adding responsive design support for user-created wysiwyg editor content",
+      "url": "acton.com",
+      "location": "Roseville, California"
+    },
+    {
+      "name": "Act-On Software, Inc.",
+      "position": "Solutions Engineer",
+      "startDate": "2012-06-30",
+      "endDate": "2015-01-31",
+      "highlights": [],
+      "summary": "- Acted as a “white-glove” professional services, and developer relations\n- Designed custom webpages, graphic designs, and scripts for interactive elements",
+      "url": "acton.com",
+      "location": "Roseville, california"
+    },
+    {
+      "name": "Electronic Arts (EA)",
+      "position": "Intern / Associate Designer",
+      "startDate": "2010-10-31",
+      "endDate": "2012-05-31",
+      "highlights": [],
+      "summary": "- Created marketing and in-game asset art for the Facebook web-app games developed by EA Capital Games",
+      "url": "ea.com",
+      "location": "Sacramento, California Area"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of California, Davis",
+      "area": "",
+      "studyType": "Bachelor of Arts in Communication and Political Science",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "projects": [
+    {
+      "name": "Codable",
+      "startDate": "2017-09-30",
+      "summary": "Codable is an iOS app that allows local debugging or visual changes to be made to a website while on mobile. This is done by heavily leveraging the iOS WebKit JavaScript APIs to query the loaded webpage or direct changes, while displaying data to the user in a native Swift interface.",
+      "url": "http://appstore.com/codable"
+    },
+    {
+      "name": "GitHub",
+      "startDate": "2014-10-31",
+      "summary": null,
+      "url": "https://github.com/jdodsoncollins"
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
